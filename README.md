@@ -101,7 +101,6 @@ We’d love your help improving FrameWeaver! Here’s the easiest way to get sta
    git clone https://github.com/FinalYear-Team14/frameweaver-storyboard.git
 
 ---
----
 
 ## 📄 License
 This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
@@ -109,4 +108,4 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for d
 ---
 
 ## 📬 Contact
-Got questions or feedback? Reach out to the team at `harshkjolania@gmail.com`, `dishakn2003@gmail.com`,`diyasujilofficial@gmail.com `,`harishsasikumar363@gmail.com`.
+Questions, feedback, or just want to say hi? Reach us at :)  `harshkjolania@gmail.com`, `dishakn2003@gmail.com`,`diyasujilofficial@gmail.com `,`harishsasikumar363@gmail.com`.
