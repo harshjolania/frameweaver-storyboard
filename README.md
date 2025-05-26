@@ -79,4 +79,34 @@ flask run
 ├── requirements.txt        # Python dependencies
 └── report/                 # Final PDF & source files
 ```
+---
 
+## 📤 Usage
+1. **Sign up** or **log in** with your email.  
+2. **Create a new project**, enter or paste your story outline.  
+3. **Generate storyboard** and preview the panels.  
+4. **Download** as PDF/PPT or **play** the audio narration.
+
+---
+
+---
+
+## 🤝 How to Contribute
+
+We’d love your help improving FrameWeaver! Here’s the easiest way to get started:
+
+1. **Open an issue** — let us know about bugs or feature ideas.  
+2. **Fork & clone** the repo to your own account:  
+   ```bash
+   git clone https://github.com/FinalYear-Team14/frameweaver-storyboard.git
+
+---
+---
+
+## 📄 License
+This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
+
+---
+
+## 📬 Contact
+Got questions or feedback? Reach out to the team at `harshkjolania@gmail.com`, `dishakn2003@gmail.com`,`diyasujilofficial@gmail.com `,`harishsasikumar363@gmail.com`.
